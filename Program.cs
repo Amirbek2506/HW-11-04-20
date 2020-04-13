@@ -21,7 +21,7 @@ namespace MyprojecsApp
         public string PlaceOfBirth;                 //место рождения
         public string PlaceOfResidence;             //место жителство
     }
-    class Student : Person
+    class Students : Person
     {
         public string University;
         public string Faculty;
